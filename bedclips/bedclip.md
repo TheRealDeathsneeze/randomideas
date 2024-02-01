@@ -1,0 +1,1 @@
+a set of bed clips that are fixed to the bed substrate itself on one end, and shaped in such a way to allow insertion and removal of the build plate without removing the clips from the bed. See image. 
